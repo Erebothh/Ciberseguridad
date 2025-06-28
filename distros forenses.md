@@ -1,9 +1,3 @@
-![image](https://github.com/user-attachments/assets/c89e5b95-e728-4543-ad75-0ec2fac2a882)# Ciberseguridad
-Herramientas, software, distros, marcadores, etc... 
-Muchas de la herramientas pueden repetirse y obvio puede que me equivoque con su info o clasificación. Los invito a corregirme o agregar más herramientas.
-info:
-"https://distrowatch.com/"
-
 Empecemos por Distros Linux para analisis forense:
 
 1. **Kali Linux** https://www.kali.org/ Kali Linux (previamente conocido como BackTrack) es una distribución basada en Debian con una colección de herramientas de seguridad y forenses. Presenta actualizaciones de seguridad oportunas, soporte para la arquitectura ARM, cuatro tipos de escritorio populares a escoger y actualizaciones a nuevas versiones consistentes.
