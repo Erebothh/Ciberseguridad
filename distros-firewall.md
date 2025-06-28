@@ -34,6 +34,10 @@ Distros para Firewall, escaneo y monitoreo de Redes
 ![image](https://github.com/user-attachments/assets/90f2318b-f959-4b33-9ec0-4eb6f5b70a4f) ![image](https://github.com/user-attachments/assets/d885021d-8538-49dd-a5f4-e1b115353b76)
 
 
+8. **Finnix** https://www.finnix.org/ Finnix es una pequeña distribución de Linux en CD, autocontenida y de arranque para administradores de sistemas, basada en Debian. Puede utilizarse para montar y manipular discos duros y particiones, monitorizar redes, reconstruir registros de arranque, instalar otros sistemas operativos y mucho más.
+-
+![image](https://github.com/user-attachments/assets/091140c9-a9ef-469e-9c0d-c2bd1e3d9cf8)
+
 
 
 
