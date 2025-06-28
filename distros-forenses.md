@@ -30,7 +30,7 @@ Empecemos por Distros Linux para analisis forense:
 ![image](https://github.com/user-attachments/assets/b1b76372-38d9-4d21-9531-6cdbaa578487) ![image](https://github.com/user-attachments/assets/105f3055-8e5a-4588-87c8-b867c30bee7f)
 
 
-7. **CAINE** CAINE (Computer Aided INvestigative Environment, Ambiente Investigador Asistido por Computadora) es una distribución en vivo de GNU/Linux basada en Ubuntu creada como un proyecto de computación forense. Ofrece un ambiente forense completo organizado para integrar herramientas de software ya existentes como módulos de programa y proveer una interfaz gráfica amistosa. Los objetivos de diseño principales a los que CAINE apunta a garantizar son: Un ambiente interoperable que apoye al investigador digital durante las 4 fases de la investigación digital, una interfaz gráfica amigable con el usuario y un resumen semiautomatizado del reporte final.
+7. **CAINE** https://www.caine-live.net/ (Computer Aided INvestigative Environment, Ambiente Investigador Asistido por Computadora) es una distribución en vivo de GNU/Linux basada en Ubuntu creada como un proyecto de computación forense. Ofrece un ambiente forense completo organizado para integrar herramientas de software ya existentes como módulos de programa y proveer una interfaz gráfica amistosa. Los objetivos de diseño principales a los que CAINE apunta a garantizar son: Un ambiente interoperable que apoye al investigador digital durante las 4 fases de la investigación digital, una interfaz gráfica amigable con el usuario y un resumen semiautomatizado del reporte final.
 -
 ![image](https://github.com/user-attachments/assets/f440cf1e-f851-469b-871c-329012b32789) ![image](https://github.com/user-attachments/assets/98eadfe6-2185-4094-98c2-9a7ba22d4344)
 
