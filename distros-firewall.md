@@ -7,7 +7,7 @@ Distros para Firewall, escaneo y monitoreo de Redes
 
 2. **IPFire** https://www.ipfire.org/ IPFire es una distribución Linux que se centra en la facilidad de configuración, el buen manejo y el alto nivel de seguridad. Se maneja a través de una interfaz web intuitiva que ofrece muchas opciones de configuración para administradores de sistemas principiantes y experimentados. El mantenimiento de IPFire corre a cargo de desarrolladores preocupados por la seguridad, que actualizan el producto con regularidad para mantenerlo seguro. IPFire incluye un gestor de paquetes personalizado llamado Pakfire y el sistema puede ampliarse con varios complementos.
 -
-4. ![image](https://github.com/user-attachments/assets/7db99061-1471-457e-98b5-cfb33a1fc3a7) ![image](https://github.com/user-attachments/assets/a3454541-51e5-48f3-8e4e-68bb833f5021)
+![image](https://github.com/user-attachments/assets/7db99061-1471-457e-98b5-cfb33a1fc3a7) ![image](https://github.com/user-attachments/assets/a3454541-51e5-48f3-8e4e-68bb833f5021)
 
 
 3. **OPNsense** https://opnsense.org/ OPNsense es un sistema operativo especializado basado en FreeBSD (y una bifurcación de pfSense) diseñado para cortafuegos y routers. Está desarrollado por Deciso B.V. en los Países Bajos. Algunas de las características de OPNsense incluyen proxy de caché de reenvío, conformación de tráfico, detección de intrusiones, autenticación de dos factores y fácil configuración del cliente OpenVPN. El enfoque del proyecto en la seguridad aporta una serie de características únicas, como la opción de utilizar LibreSSL en lugar de OpenSSL (seleccionable en la interfaz gráfica de usuario). OPNsense también incluye un mecanismo de actualización que proporciona actualizaciones de seguridad importantes en el momento oportuno.
