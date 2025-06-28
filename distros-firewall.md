@@ -41,7 +41,7 @@ Distros para Firewall, escaneo, monitoreo de Redes y IDS y IPS
 
 9. **SecurityOnion** https://securityonionsolutions.com/ Security Onion Solutions, LLC es el creador y mantenedor de Security Onion, una plataforma libre y abierta para la caza de amenazas, la supervisión de la seguridad de la red y la gestión de registros. Security Onion incluye las mejores herramientas libres y abiertas, como Suricata, Zeek, Elastic Stack y muchas otras.
 -
-https://securityonionsolutions.com/_nuxt/sos-white.DuwTGMxl.svg ![image](https://github.com/user-attachments/assets/889c3822-c81b-4c80-b963-fbfaccafbd82)
+![image](https://github.com/user-attachments/assets/7612e48a-9a5d-4966-a5ca-66b176d6336c) ![image](https://github.com/user-attachments/assets/889c3822-c81b-4c80-b963-fbfaccafbd82)
 
 
 
