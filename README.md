@@ -6,7 +6,7 @@ info:
 
 Empecemos por Distros Linux para analisis forense 
 1. https://www.kali.org/ Kali Linux (previamente conocido como BackTrack) es una distribución basada en Debian con una colección de herramientas de seguridad y forenses. Presenta actualizaciones de seguridad oportunas, soporte para la arquitectura ARM, cuatro tipos de escritorio populares a escoger y actualizaciones a nuevas versiones consistentes.
-2. 
+- 
 ![image](https://github.com/user-attachments/assets/c51a3a78-1263-4656-a774-bab5aa8989d3) ![image](https://github.com/user-attachments/assets/6610ef75-5ac1-4e58-9a28-5f3bb7d09cf3)
 
 
