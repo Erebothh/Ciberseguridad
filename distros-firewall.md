@@ -1,4 +1,4 @@
-Distros para Firewall, escaneo y monitoreo de Redes
+Distros para Firewall, escaneo, monitoreo de Redes y IDS y IPS
 
 1. **Relianoid** https://www.relianoid.com/ Relianoid es una distribución Linux basada en Debian para el equilibrio de carga. La distribución ofrece un sistema operativo orientado al equilibrio de carga para entornos de pruebas, desarrollo y control de calidad. Relianoid está disponible en ediciones Community (gratuita) y Enterprise.
 -
@@ -37,6 +37,12 @@ Distros para Firewall, escaneo y monitoreo de Redes
 8. **Finnix** https://www.finnix.org/ Finnix es una pequeña distribución de Linux en CD, autocontenida y de arranque para administradores de sistemas, basada en Debian. Puede utilizarse para montar y manipular discos duros y particiones, monitorizar redes, reconstruir registros de arranque, instalar otros sistemas operativos y mucho más.
 -
 ![image](https://github.com/user-attachments/assets/091140c9-a9ef-469e-9c0d-c2bd1e3d9cf8)
+
+
+9. **SecurityOnion** https://securityonionsolutions.com/ Security Onion Solutions, LLC es el creador y mantenedor de Security Onion, una plataforma libre y abierta para la caza de amenazas, la supervisión de la seguridad de la red y la gestión de registros. Security Onion incluye las mejores herramientas libres y abiertas, como Suricata, Zeek, Elastic Stack y muchas otras.
+-
+https://securityonionsolutions.com/_nuxt/sos-white.DuwTGMxl.svg ![image](https://github.com/user-attachments/assets/889c3822-c81b-4c80-b963-fbfaccafbd82)
+
 
 
 
