@@ -1,4 +1,4 @@
-Distros para Firewall, escaneo y monitoreo de Redes
+Distros para Recuperación de datos, particionado y arreglo de Grubs o clonación de Discos
 
 1. **Dr.Parted Live** https://dr-parted-live.sourceforge.io/ Dr.Parted Live es una distribución GNU/Linux de arranque basada en Debian Testing. Es un CD/USB en vivo que incluye un gestor de ventanas Openbox ligero y aplicaciones útiles para la copia de seguridad, restauración y recuperación de datos.
 -
